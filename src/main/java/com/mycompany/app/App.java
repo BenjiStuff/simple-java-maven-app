@@ -1,6 +1,6 @@
 package com.mycompany.app;
 
-public class App
+public class App extends ComponentBase
 { 
 
     private final String message = "Hello World!"; //review
