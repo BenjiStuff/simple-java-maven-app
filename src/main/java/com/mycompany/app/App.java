@@ -1,6 +1,6 @@
 package com.mycompany.app;
 
-public class App extends PanelBase
+public class App extends MediaItemArticleVersion
 { 
 
     private final String message = "Hello World!"; //review
